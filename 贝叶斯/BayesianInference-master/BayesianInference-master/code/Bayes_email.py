@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Date     : 2017-05-09 09:29:13
-# @Author   : Alan Lau (rlalan@outlook.com)
-# @Language : Python3.5
-
-# from fwalker import fun
-# from reader import readtxt
 
 import os
 
@@ -124,3 +117,9 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# -*- coding: utf-8 -*-
+# @Date     : 2017-05-09 09:29:13
+# @Author   : Alan Lau (rlalan@outlook.com)
+# @Language : Python3.5
+#代码经过部分修改和注释
